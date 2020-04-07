@@ -22,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -126,7 +127,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586038503639</updated>
-      <workItem from="1586038504989" duration="12904000" />
+      <workItem from="1586038504989" duration="13727000" />
+      <workItem from="1586115787747" duration="75000" />
+      <workItem from="1586116314851" duration="5975000" />
     </task>
     <servers />
   </component>
@@ -134,26 +137,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="666" height="213" key="GridCell.Tab.0.bottom" timestamp="1586052724310">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="212" y="199" key="FileChooserDialogImpl" timestamp="1586115231667">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="212" y="199" key="FileChooserDialogImpl/0.23.1440.827@0.23.1440.827" timestamp="1586115231667" />
+    <state width="666" height="213" key="GridCell.Tab.0.bottom" timestamp="1586115765842">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="666" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1586052724310" />
-    <state width="666" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586051400657" />
-    <state width="666" height="213" key="GridCell.Tab.0.center" timestamp="1586052724309">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="666" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586115765842" />
+    <state width="666" height="213" key="GridCell.Tab.0.center" timestamp="1586115765842">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="666" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1586052724309" />
-    <state width="666" height="213" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586051400657" />
-    <state width="666" height="213" key="GridCell.Tab.0.left" timestamp="1586052724309">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="666" height="213" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586115765842" />
+    <state width="666" height="213" key="GridCell.Tab.0.left" timestamp="1586115765841">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="666" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1586052724309" />
-    <state width="666" height="213" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586051400656" />
-    <state width="666" height="213" key="GridCell.Tab.0.right" timestamp="1586052724310">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="666" height="213" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586115765841" />
+    <state width="666" height="213" key="GridCell.Tab.0.right" timestamp="1586115765842">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="666" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1586052724309" />
-    <state width="666" height="213" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586051400657" />
+    <state width="666" height="213" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586115765842" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/flask_todo$setup.coverage" NAME="setup Coverage Results" MODIFIED="1586052717283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
